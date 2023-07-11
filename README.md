@@ -26,7 +26,7 @@ Our work and implementations are inspired and based on the following projects:
 【1】李建微, 占家旺. 三维点云配准方法研究进展[J]. 中国图象图形学报, 2022, 27(02): 349-367. 
 【2】Jianwei Li, Jiawang Zhan, Ting Zhou, Virgílio A. Bento, Qianfeng Wang. 
 Point Cloud Registration and Localization Based on Voxel Plane Features [J]. 
-ISPRS Journal of Photogrammetry and Remote Sensing.（expected to be published in this journal）
+ISPRS Journal of Photogrammetry and Remote Sensing.
 ```
 We appreciate the authors for sharing their codes.
 ## Contact
