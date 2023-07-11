@@ -8,7 +8,7 @@ cmake ..; make;
 ```
 then we can get transformation matrix of source and target point cloud by
 ```
-./FCCF {PATH_TO_SRC_CLOUD} {PATH_TO_TAR_CLOUD} {Voxel_Grid_Size}
+./FCCF {PATH_TO_SRC_CLOUD} {PATH_TO_TAR_CLOUD} {VOXEL_GRID_SIZE}
 ```
 ## Testing enviroment
 * Windows Subsystem Linux(Ubuntu 20.04.6 LTS)
