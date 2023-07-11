@@ -1,9 +1,11 @@
 # FCCF-PCR
+Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Pei-Hsuan Hsieh, and Chia-Chi Hsu.  
+
 <div align=center>
 <img src="https://github.com/chris281293/FCCF-PCR/blob/main/Fig/office_result.png">
 </div>
 
-Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Pei-Hsuan Hsieh, and Chia-Chi Hsu.  
+The left figure is original Office data from [ETH](https://projects.asl.ethz.ch/datasets/doku.php?id=laserregistration:laserregistration) dataset, and the right one is the registration result estimated by our FCCF-PCR method.
 ## Usage
 Compiling by following codes in the project directory
 ```
