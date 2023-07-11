@@ -1,7 +1,7 @@
 # FCCF-PCR
 Feature-Consistent Coplane-Pair Correspondence- and Fusion-Based Point Cloud Registration (2023) by  Kuo-Liang Chung, Pei-Hsuan Hsieh, and Chia-Chi Hsu.
 ## Usage
-Compiling by following code in the project directory
+Compiling by following codes in the project directory
 ```
 mkdir build; cd build
 cmake ..; make;
